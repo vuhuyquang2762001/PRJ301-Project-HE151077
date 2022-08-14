@@ -1,0 +1,14 @@
+﻿Tạo trang web chấm công của thợ mộc làm trên nhà cổ 3-5 gian 
+-Gồm 7 người thợ 
+        + 2 người thợ chính về phần đục trạm khắc
+        +3 người làm về máy móc cưa xẻ gỗ để theo từng khuôn cho những người đục         làm(tiện xẻ ….)
+        +2 người phụ trách việc lắp đặt vào các mộng mà thợ đục đã làm sẵn và lắp đặt 
+        theo ý của gia chủ .
+-Về phần lương public vì mỗi người làm một nhiệm vụ riêng nên tiền lương ko cần private
+-Lương của thợ chính (400k/ngay) https://timviec365.vn/blog/luong-tho-moc-co-cao-khong-khao-sat-muc-luong-tho-moc-new12027.html . e lấy số liệu theo trang này !!
+-Lương của thợ máy (250k/ngay) https://jobsgo.vn/muc-luong-tho-tien.html
+-Lương của người phụ (200k/ngay)thường là những người k chuyên nghiệp về máy móc và thợ mộc nên sẽ là người chịu sự quản lý của thợ mộc và thợ máy 
+-Về phần chức năng
++ Sẽ có tổng số ngày lương của từng người theo 1 tháng .
+        +Tổng số ngày đi làm và số ngày nghỉ của tháng 
++Mỗi người chỉ được tích 1 lần nếu đi làm(tránh trường hợp  có thể tích hộ người khác khi không đi làm )
